@@ -6,4 +6,4 @@ if student_name:
 if st.button("Show Details"):
     st.write("Student Name:", student_name)
     st.write("Class: XII")
-    st.write("Section: A")
+    st.write("Section: C")
